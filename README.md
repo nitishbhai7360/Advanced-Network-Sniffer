@@ -4,9 +4,7 @@ A Python-based advanced packet sniffer built using Scapy for monitoring and anal
 
 ## 📸 Tool Screenshot
 
-## 📸 Tool Screenshot
-
-![Ultimate Sniffer](tool screenshort.png)
+![Ultimate Sniffer](screenshort.png)
 
 ## ⚡ Features
 
