@@ -21,7 +21,7 @@ A Python-based advanced packet sniffer built using Scapy for monitoring and anal
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/Advanced-Network-Sniffer.git
+git clone https://github.com/nitishbhai7360/Advanced-Network-Sniffer.git
 cd Advanced-Network-Sniffer
 pip install -r requirements.txt
 ```
