@@ -49,7 +49,7 @@ python basic_network_snifer.py
 Capture on interface:
 
 ```bash
-sudo python3 basic_network_snifer.pyy -i eth0
+sudo python3 basic_network_snifer.py -i eth0
 ```
 
 Capture only 20 packets:
