@@ -35,13 +35,13 @@ pip install -r requirements.txt
 ### Linux
 
 ```bash
-sudo python3 network_sniffer.py
+sudo python3 basic_network_snifer.py
 ```
 
 ### Windows
 
 ```bash
-python network_sniffer.py
+python basic_network_snifer.py
 ```
 
 ## 📌 Example Commands
@@ -49,31 +49,31 @@ python network_sniffer.py
 Capture on interface:
 
 ```bash
-sudo python3 network_sniffer.py -i eth0
+sudo python3 basic_network_snifer.pyy -i eth0
 ```
 
 Capture only 20 packets:
 
 ```bash
-sudo python3 network_sniffer.py -c 20
+sudo python3 basic_network_snifer.py -c 20
 ```
 
 Capture HTTP traffic:
 
 ```bash
-sudo python3 network_sniffer.py -f "tcp port 80"
+sudo python3 basic_network_snifer.py -f "tcp port 80"
 ```
 
 Verbose Mode:
 
 ```bash
-sudo python3 network_sniffer.py -v
+sudo python3 basic_network_snifer.py -v
 ```
 
 Save packets:
 
 ```bash
-sudo python3 network_sniffer.py -s capture.pcap
+sudo basic_network_snifer.py -s capture.pcap
 ```
 
 ## ⚠ Disclaimer
